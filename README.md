@@ -5,9 +5,7 @@ Welcome to BXAVABY!
 
 ---
 
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 
 ## 🚀 About Me
@@ -43,7 +41,7 @@ Welcome to BXAVABY!
 
 ## 📊 Stats
 
-![bxavaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&theme=tokyonight)
+![bxavaby's stats](https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxavaby&layout=compact&theme=tokyonight)
 
