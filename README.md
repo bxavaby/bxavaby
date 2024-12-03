@@ -2,11 +2,15 @@
 
 Welcome to BXAVABY!
 
+
 ---
+
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+
 ---
+
 
 ## 🚀 About Me
 
@@ -16,7 +20,9 @@ Welcome to BXAVABY!
 - 💬 Ask me about **[??the universe??]**
 - 📫 How to reach me: **[xavaby@tuta.io]**
 
+
 ---
+
 
 ## 🛠️ My Favorite Tools
 
@@ -39,7 +45,9 @@ Welcome to BXAVABY!
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![WezTerm](https://img.shields.io/badge/WezTerm-090909?style=for-the-badge&logoColor=white)
 
+
 ---
+
 
 ## 📊 Stats
 
@@ -47,7 +55,9 @@ Welcome to BXAVABY!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxavaby&layout=compact&theme=tokyonight)
 
+
 ---
+
 
 *Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!*
 
