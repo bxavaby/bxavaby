@@ -1,7 +1,6 @@
 # Salutations 👋
 
-Welcome to BXAVABY!
-
+Welcome to BXAV!
 
 ---
 
