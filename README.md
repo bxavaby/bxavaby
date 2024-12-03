@@ -9,11 +9,11 @@ Welcome to BXAV!
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[vault]**
-- 🌱 Currently learning **[golang & lua]**
-- 🤔 Looking for help with **[a CLI text-based game]**
-- 💬 Ask me about **[??the universe??]**
-- 📫 How to reach me: **[xavaby@tuta.io]**
+- 🔭 Currently working on **vault**
+- 🌱 Currently learning **golang & lua**
+- 🤔 Looking for help with **a CLI text-based game**
+- 💬 Ask me about **??the universe??**
+- 📫 How to reach me: **xavaby@tuta.io**
 
 
 ## 🛠️ My Favorite Tools
