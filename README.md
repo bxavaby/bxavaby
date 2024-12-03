@@ -1,7 +1,5 @@
 # Salutations 👋
 
-Welcome to BXAV!
-
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -40,9 +38,9 @@ Welcome to BXAV!
 
 ## 📊 Stats
 
-![bxavaby's stats](https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&theme=tokyonight)
+[![bxavaby's stats](https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&theme=tokyonight)](https://github.com/bxavaby/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxavaby&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxavaby&layout=compact&theme=tokyonight)](https://github.com/bxavaby)
 
 
 ---
