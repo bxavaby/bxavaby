@@ -4,12 +4,12 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-## 🚀 About Me
+## 🚀 Über mich
 
 - 🔭 Currently working on **vault**
 - 🌱 Currently learning **golang & lua**
 - 🤔 Looking for help with **a CLI text-based game**
-- 💬 Ask me about **??the universe??**
+- 💬 Ask me about **??quantum immortality??**
 - 📫 How to reach me: **xavaby@tuta.io**
 
 
