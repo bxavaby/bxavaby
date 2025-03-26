@@ -34,6 +34,7 @@
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]([https://go.dev/](https://archlinux.org/))
 [![WezTerm](https://img.shields.io/badge/WezTerm-090909?style=for-the-badge&logoColor=white)]([https://go.dev/](https://wezfurlong.org/wezterm/))
 
+---
 
 ## ⌜ stats ⌟
 
