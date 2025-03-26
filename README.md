@@ -4,7 +4,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-## ❯ Über mich
+## ⌜Über mich⌟
 
 - Currently working on **vault** <br>
 - Currently learning **golang & lua** <br>
@@ -13,29 +13,29 @@
 - How to reach me: **xavaby@tuta.io** <br>
 
 
-## 🛠️ My Favorite Tools
+## ⌜My Favorite Tools⌟
 
-### 👨‍💻 Languages
+### ⌞Languages⌝
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Bash](https://img.shields.io/badge/Bash-ED8B00?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-### 💻 Software & Tools
+### ⌞Software & Tools⌝
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]([https://go.dev/](https://git-scm.com/))
 [![Micro](https://img.shields.io/badge/Micro_Text_Editor-000000?style=for-the-badge&logoColor=white)]([https://go.dev/](https://micro-editor.github.io/))
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]([https://go.dev/](https://neovim.io/))
 
-### 🖥️ OS & Terminal
+### ⌞OS & Terminal⌝
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]([https://go.dev/](https://archlinux.org/))
 [![WezTerm](https://img.shields.io/badge/WezTerm-090909?style=for-the-badge&logoColor=white)]([https://go.dev/](https://wezfurlong.org/wezterm/))
 
 
-## 📊 Stats
+## ⌜Stats⌟
 
 [![bxavaby's stats](https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&theme=tokyonight)](https://github.com/bxavaby/)
 
