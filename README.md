@@ -4,13 +4,13 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-## ⌂ Über mich
+## ❯ Über mich
 
-❯ Currently working on **vault** <br>
-❯ Currently learning **golang & lua** <br>
-❯ Looking for help with **a CLI text-based game** <br>
-❯ Ask me about **??quantum immortality??** <br>
-❯ How to reach me: **xavaby@tuta.io** <br>
+- Currently working on **vault** <br>
+- Currently learning **golang & lua** <br>
+- Looking for help with **a CLI text-based game** <br>
+- Ask me about **??quantum immortality??** <br>
+- How to reach me: **xavaby@tuta.io** <br>
 
 
 ## 🛠️ My Favorite Tools
