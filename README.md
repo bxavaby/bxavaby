@@ -6,11 +6,11 @@
 
 ## ⌜ über mich ⌟
 
-- Currently working on **vault** <br>
-- Currently learning **golang & lua** <br>
-- Looking for help with **a CLI text-based game** <br>
-- Ask me about **??quantum immortality??** <br>
-- How to reach me: **xavaby@tuta.io** <br>
+- currently working on **vault**
+- learning **golang & lua**
+- looking for help with **a CLI text-based game**
+- ask me about **??quantum immortality??**
+- how to reach me: **xavaby@tuta.io**
 
 
 ## ⌜ favorit(<)3 tools ⌟
