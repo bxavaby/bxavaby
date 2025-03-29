@@ -6,7 +6,7 @@
 
 ## ⌜ über mich ⌟
 
-- currently working on **bobo-wj**
+- currently working on [**BOBO**](https://github.io/bxavaby/bobo-wj/)
 - learning **golang & lua**
 - looking for help with **a CLI text-based game**
 - ask me about **??quantum immortality??**
