@@ -6,7 +6,7 @@
 
 ## ⌜ über mich ⌟
 
-- currently working on **vault**
+- currently working on **bobo-wj**
 - learning **golang & lua**
 - looking for help with **a CLI text-based game**
 - ask me about **??quantum immortality??**
