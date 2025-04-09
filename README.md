@@ -25,7 +25,6 @@
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]([https://go.dev/](https://git-scm.com/))
-[![Micro](https://img.shields.io/badge/Micro_Text_Editor-000000?style=for-the-badge&logoColor=white)]([https://go.dev/](https://micro-editor.github.io/))
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]([https://go.dev/](https://neovim.io/))
 [![Nix Shell](https://img.shields.io/badge/Nix%20Shell-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
 [![Zed](https://img.shields.io/badge/Zed%20Editor-1a1a1a?style=for-the-badge&logoColor=white)](https://zed.dev/)
