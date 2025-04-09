@@ -4,7 +4,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-## 『 about me 』
+## 「 about me 」
 
 - currently working on [**heresnemo**](https://github.com/bxavaby/heresnemo)
 - learning **golang & rust**
@@ -12,7 +12,7 @@
 - how to reach me: **bxavaby@protonmail.ch**
 
 
-## 『 favorit(<)3 tools 』
+## 「 favorit(<)3 tools 」
 
 ### ⇴ languages
 
@@ -27,6 +27,8 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]([https://go.dev/](https://git-scm.com/))
 [![Micro](https://img.shields.io/badge/Micro_Text_Editor-000000?style=for-the-badge&logoColor=white)]([https://go.dev/](https://micro-editor.github.io/))
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)]([https://go.dev/](https://neovim.io/))
+[![Nix Shell](https://img.shields.io/badge/Nix%20Shell-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
+[![Zed](https://img.shields.io/badge/Zed%20Editor-1a1a1a?style=for-the-badge&logoColor=white)](https://zed.dev/)
 
 ### ⇴ os && terminal
 
@@ -35,7 +37,7 @@
 
 ---
 
-## 『 stats 』
+## 「 stats 」
 
 [![bxavaby's stats](https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&theme=tokyonight)](https://github.com/bxavaby/)
 
