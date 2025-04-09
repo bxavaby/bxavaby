@@ -47,6 +47,4 @@
 
 *Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!*
 
-(<>..<>)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P116XU3H)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P116XU3H)  (<>..<>)
