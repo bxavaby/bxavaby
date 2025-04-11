@@ -7,7 +7,7 @@
 ## 「 about me 」
 
 - commited to [**heresnemo**](https://github.com/bxavaby/heresnemo)
-- interested in **golang && rust**
+- interested in **go && rust**
 - contact: **bxavaby@protonmail.ch**
 
 
