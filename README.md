@@ -7,7 +7,7 @@
 ## 「 about me 」
 
 - commited to [**heresnemo**](https://github.com/bxavaby/heresnemo)
-- exploring **nix && rust**
+- exploring **nixOS && rust**
 - contact: **bxavaby@protonmail.ch**
 
 
