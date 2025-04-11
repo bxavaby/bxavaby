@@ -6,10 +6,9 @@
 
 ## 「 about me 」
 
-- currently working on [**heresnemo**](https://github.com/bxavaby/heresnemo)
-- learning **golang & rust**
-- ask me about **??quantum immortality??**
-- how to reach me: **bxavaby@protonmail.ch**
+- commited to [**heresnemo**](https://github.com/bxavaby/heresnemo)
+- interested in **golang & rust**
+- contact: **bxavaby@protonmail.ch**
 
 
 ## 「 favorit(<)3 tools 」
