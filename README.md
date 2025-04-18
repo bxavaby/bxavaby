@@ -24,16 +24,16 @@ SɅLUTɅTIONS_
   
 ### ⇴ exploring
 
-[![Nix](https://img.shields.io/badge/NIX-111720?style=for-the-badge&logo=nixos&logoColor=5E6C8C)](https://nixos.org/)
-[![Rust](https://img.shields.io/badge/RUST-111720?style=for-the-badge&logo=rust&logoColor=61535B)](https://www.rust-lang.org/)
+[![Nix](https://img.shields.io/badge/NIX-1B1B1D?style=for-the-badge&logo=nixos&logoColor=5E6C8C)](https://nixos.org/)
+[![Rust](https://img.shields.io/badge/RUST-1B1B1D?style=for-the-badge&logo=rust&logoColor=61535B)](https://www.rust-lang.org/)
 
 <br>
 
 ### ⇴ connect with me
 
 <p align="center">
-<a href="mailto:bxavaby@protonmail.ch" target="_blank"><img src="https://img.shields.io/badge/Proton-111720?style=for-the-badge&logo=protonmail&logoColor=4D2ED0" alt="Proton" /></a>
-<a href="https://github.com/bxavaby" target="_blank"><img src="https://img.shields.io/badge/GitHub-111720?style=for-the-badge&logo=github&logoColor=D4C7CA" alt="GitHub" /></a>
+<a href="mailto:bxavaby@protonmail.ch" target="_blank"><img src="https://img.shields.io/badge/Proton-1B1B1D?style=for-the-badge&logo=protonmail&logoColor=4D2ED0" alt="Proton" /></a>
+<a href="https://github.com/bxavaby" target="_blank"><img src="https://img.shields.io/badge/GitHub-1B1B1D?style=for-the-badge&logo=github&logoColor=D4C7CA" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -83,19 +83,19 @@ SɅLUTɅTIONS_
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&title_color=4D2ED0&icon_color=4D2ED0&bg_color=111720&border_color=1B1B1D&text_color=947CDB&hide_border=true" alt="bxavaby's stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&title_color=4D2ED0&icon_color=4D2ED0&bg_color=1B1B1D&border_color=1B1B1D&text_color=947CDB&hide_border=true" alt="bxavaby's stats" />
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxavaby&layout=compact&bg_color=111720&border_color=1B1B1D&title_color=4D2ED0&text_color=947CDB&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxavaby&layout=compact&bg_color=1B1B1D&border_color=1B1B1D&title_color=4D2ED0&text_color=947CDB&hide_border=true" alt="Top Languages" />
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bxavaby&background=111720&border=1B1B1D&ring=947CDB&fire=4D2ED0&currStreakLabel=4D2ED0&sideLabels=4D2ED0&currStreakNum=4D2ED0&sideNums=4D2ED0&dates=947CDB&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bxavaby&background=1B1B1D&border=1B1B1D&ring=947CDB&fire=4D2ED0&currStreakLabel=4D2ED0&sideLabels=4D2ED0&currStreakNum=4D2ED0&sideNums=4D2ED0&dates=947CDB&hide_border=true" alt="GitHub Streak" />
 </p>
 
 </div>
