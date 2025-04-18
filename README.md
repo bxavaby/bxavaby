@@ -2,13 +2,11 @@
 
 SɅLUTɅTIONS_
 
+<br>
+
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=3500&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1000&lines=LINUX+CLI+DEVELOPMENT+WITH+CONSTRAINTS+AROUND+OPSEC;CYBERSECURITY+TOOLING;ABSTRUSE+OPERATIONS;AND+LLM+INTEGRATION;FOR+VOGUISH+CLI+WORKFLOWS)](https://git.io/typing-svg)
 
-<code style="color:#4D2ED0">crafting minimal, secure cli tools for elegant computing</code>
-
 </div>
-
-<hr style="border:1px solid #61535B; background-color:#61535B; height:1px; width:80%; opacity:0.3">
 
 <br>
 
