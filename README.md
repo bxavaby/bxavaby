@@ -4,7 +4,7 @@ SɅLUTɅTIONS_
 
 <br>
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=2500&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1000&lines=LINUX+CLI+DEVELOPMENT+WITH+CONSTRAINTS+AROUND;OPSEC;CYBERSECURITY+TOOLING;ABSTRUSE+OPERATIONS;AND+LLM+INTEGRATION;FOR+VOGUISH+CLI+WORKFLOWS!)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=2500&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1000&lines=LINUX+CLI+DEVELOPMENT+WITH+CONSTRAINTS+AROUND;1.+OPSEC;2.+CYBERSECURITY+TOOLING;3.+ABSTRUSE+OPERATIONS;4.+LLM+INTEGRATION;FOR+VOGUISH+CLI+WORKFLOWS!)](https://git.io/typing-svg)
 
 </div>
 
