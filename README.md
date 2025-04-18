@@ -2,7 +2,7 @@
 
 SɅLUTɅTIONS_
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=2800&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1000&lines=LINUX+CLI+DEVELOPMENT+WITH+CONSTRAINTS+AROUND+OPSEC;CYBERSECURITY+TOOLING;ABSTRUSE+OPERATIONS;AND+LLM+INTEGRATION;FOR+VOGUISH+CLI+WORKFLOWS)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=3500&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1000&lines=LINUX+CLI+DEVELOPMENT+WITH+CONSTRAINTS+AROUND+OPSEC;CYBERSECURITY+TOOLING;ABSTRUSE+OPERATIONS;AND+LLM+INTEGRATION;FOR+VOGUISH+CLI+WORKFLOWS)](https://git.io/typing-svg)
 
 <code style="color:#5E6C8C">crafting minimal, secure cli tools for elegant computing</code>
 
