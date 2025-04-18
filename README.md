@@ -38,10 +38,6 @@ SɅLUTɅTIONS_
 
 <br>
 
-<hr style="border:1px solid #61535B; background-color:#61535B; height:1px; width:80%; opacity:0.3">
-
-<br>
-
 <div align="center">
 
 ## 「 favorit(<)3 tools 」
@@ -70,10 +66,6 @@ SɅLUTɅTIONS_
 
 <br>
 
-<hr style="border:1px solid #61535B; background-color:#61535B; height:1px; width:80%; opacity:0.3">
-
-<br>
-
 <div align="center">
 
 ## 「 stats 」
@@ -98,9 +90,7 @@ SɅLUTɅTIONS_
 
 </div>
 
-<br>
-
-<hr style="border:1px solid #61535B; background-color:#61535B; height:1px; width:80%; opacity:0.3">
+#
 
 <br>
 
