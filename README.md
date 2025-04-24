@@ -102,6 +102,4 @@ SɅLUTɅTIONS_
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P116XU3H)
 
-<a rel="me" href="https://infosec.exchange/@bxavaby">Mastodon</a>
-
 </div>
