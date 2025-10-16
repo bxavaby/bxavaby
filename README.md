@@ -4,7 +4,7 @@ SɅLUTɅTIONS_
 
 <br>
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=2500&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1000&lines=LINUX+CLI+DEVELOPMENT+WITH+CONSTRAINTS+AROUND;1.+OPSEC;2.+CYBERSECURITY+TOOLING;3.+ABSTRUSE+OPERATIONS;4.+LLM+INTEGRATION;FOR+VOGUISH+CLI+WORKFLOWS!)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=VT323&size=60&duration=6000&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1800&lines=HI,+THERE!+I+LOVE+LINUX,+CYBERSECURITY,+AND+ALL-THINGS+OPEN-SOURCE.;LATELY,+I+HAVE+BEEN+DELVING+INTO+CRYPTOGRAPHY,+ZIG,+AND+SHELL+SCRIPTING.;OFTEN+FREE+TO+COLLABORATE+AND+CHAT.+DON'T+HESITATE+TO+REACH+OUT+:%29)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@ SɅLUTɅTIONS_
 ### ⇴ exploring
 
 [![Nix](https://img.shields.io/badge/NIX-1B1B1D?style=for-the-badge&logo=nixos&logoColor=5E6C8C)](https://nixos.org/)
-[![Rust](https://img.shields.io/badge/RUST-1B1B1D?style=for-the-badge&logo=rust&logoColor=61535B)](https://www.rust-lang.org/)
+[![Zig](https://img.shields.io/badge/ZIG-1B1B1D?style=for-the-badge&logo=zig&logoColor=61535B)](https://ziglang.org/)
 
 <br>
 
@@ -51,7 +51,7 @@ SɅLUTɅTIONS_
 ### ⇴ languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,go,lua,python" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=bash,go,python,zig" alt="Programming Languages" />
 </p>
 
 <br>
@@ -92,13 +92,7 @@ SɅLUTɅTIONS_
 
 #
 
-<br>
-
 <div align="center">
-
-<span style="color:#627972; font-family:monospace">_Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!_</span>
-
-<br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P116XU3H)
 
