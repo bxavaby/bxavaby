@@ -4,7 +4,7 @@ SɅLUTɅTIONS_
 
 <br>
 
-[![Typewriter](https://readme-typing-svg.herokuapp.com?font=VT323&size=60&duration=6000&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1800&lines=HI,+THERE!+I+LOVE+LINUX,+CYBERSECURITY,+AND+ALL-THINGS+OPEN-SOURCE.;LATELY,+I+HAVE+BEEN+DELVING+INTO+CRYPTOGRAPHY,+ZIG,+AND+SHELL+SCRIPTING.;OFTEN+FREE+TO+COLLABORATE+AND+CHAT.+DON'T+HESITATE+TO+REACH+OUT+:%29)](https://git.io/typing-svg)
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=VT323&size=60&duration=6000&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1800&lines=HI,+THERE!+I+LOVE+LINUX,+CYBERSECURITY,+AND+ALL-THINGS+OPEN-SOURCE.;LATELY,+I+HAVE+BEEN+DELVING+INTO+CRYPTOLOGY,+ZIG,+AND+SHELL+SCRIPTING.;OFTEN+FREE+TO+COLLABORATE+AND+CHAT.+DON'T+HESITATE+TO+REACH+OUT+:%29)](https://git.io/typing-svg)
 
 </div>
 
