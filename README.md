@@ -31,7 +31,7 @@ SɅLUTɅTIONS_
 
 <p align="center">
 <a href="mailto:bxavaby@protonmail.ch" target="_blank"><img src="https://img.shields.io/badge/Proton-1B1B1D?style=for-the-badge&logo=protonmail&logoColor=4D2ED0" alt="Proton" /></a>
-<a href="https://github.com/bxavaby" target="_blank"><img src="https://img.shields.io/badge/GitHub-1B1B1D?style=for-the-badge&logo=github&logoColor=D4C7CA" alt="GitHub" /></a>
+<a href="https://matrix.to/#/@kixkux:matrix.org" target="_blank"><img src="https://img.shields.io/badge/Element-1B1B1D?style=for-the-badge&logo=element&logoColor=0DBD8B" alt="Element" /></a>
 </p>
 
 </div>
@@ -87,13 +87,5 @@ SɅLUTɅTIONS_
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxavaby&background=1B1B1D80&border=4D2ED033&ring=947CDB&fire=4D2ED0&currStreakLabel=4D2ED0&sideLabels=4D2ED0&currStreakNum=4D2ED0&sideNums=4D2ED0&dates=947CDB&hide_border=false&border_radius=15" alt="GitHub Streak" />
 </p>
-
-</div>
-
-#
-
-<div align="center">
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P116XU3H)
 
 </div>
