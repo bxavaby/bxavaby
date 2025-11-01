@@ -73,19 +73,7 @@ SɅLUTɅTIONS_
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bxavaby&show_icons=true&title_color=4D2ED0&icon_color=4D2ED0&bg_color=1B1B1D80&border_color=4D2ED033&text_color=947CDB&hide_border=false&border_radius=15" alt="bxavaby's stats" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxavaby&layout=compact&bg_color=1B1B1D80&border_color=4D2ED033&title_color=4D2ED0&text_color=947CDB&hide_border=false&border_radius=15" alt="Top Languages" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxavaby&background=1B1B1D80&border=4D2ED033&ring=947CDB&fire=4D2ED0&currStreakLabel=4D2ED0&sideLabels=4D2ED0&currStreakNum=4D2ED0&sideNums=4D2ED0&dates=947CDB&hide_border=false&border_radius=15" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxavaby&bg_color=1B1B1D80&color=947CDB&line=4D2ED033&point=4D2ED0&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 </div>
