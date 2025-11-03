@@ -22,8 +22,8 @@ SɅLUTɅTIONS_
   
 ### ⇴ exploring
 
-[![Nix](https://img.shields.io/badge/NIX-1B1B1D?style=for-the-badge&logo=nixos&logoColor=5E6C8C)](https://nixos.org/)
-[![Zig](https://img.shields.io/badge/ZIG-1B1B1D?style=for-the-badge&logo=zig&logoColor=61535B)](https://ziglang.org/)
+[![Nix](https://img.shields.io/badge/NIX-1B1B1D?style=plastic&logo=nixos&logoColor=5E6C8C)](https://nixos.org/)
+[![Zig](https://img.shields.io/badge/ZIG-1B1B1D?style=plastic&logo=zig&logoColor=61535B)](https://ziglang.org/)
 
 <br>
 
@@ -59,7 +59,7 @@ SɅLUTɅTIONS_
 ### ⇴ softʬare && tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,ssh,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,postgres,linux" alt="Tools" />
 </p>
 
 </div>
