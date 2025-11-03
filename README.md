@@ -46,15 +46,11 @@ SɅLUTɅTIONS_
 
 <div align="center">
 
-### ⇴ languages
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,go,python,zig" alt="Programming Languages" />
 </p>
 
 <br>
-
-### ⇴ softʬare && tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,postgres,linux" alt="Tools" />
