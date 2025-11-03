@@ -1,7 +1,5 @@
 <div align="center">
 
-SɅLUTɅTIONS_
-
 <br>
 
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=VT323&size=60&duration=6000&color=4D2ED0&background=00000000&center=true&vCenter=true&width=1800&lines=HI,+THERE!+I+LOVE+LINUX,+CYBERSECURITY,+AND+ALL-THINGS+OPEN-SOURCE.;LATELY,+I+HAVE+BEEN+DELVING+INTO+CRYPTOLOGY,+ZIG,+AND+SHELL+SCRIPTING.;OFTEN+FREE+TO+COLLABORATE+AND+CHAT.+DON'T+HESITATE+TO+REACH+OUT+:%29)](https://git.io/typing-svg)
@@ -17,6 +15,10 @@ SɅLUTɅTIONS_
 </div>
 
 <div align="center">
+
+## 「 about me 」
+
+<br>
   
 ### ⇴ exploring
 
@@ -42,15 +44,15 @@ SɅLUTɅTIONS_
 
 <br>
 
-</div>
-
-<div align="center">
+### ⇴ languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,go,python,zig" alt="Programming Languages" />
 </p>
 
 <br>
+
+### ⇴ tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,linux,postgres" alt="Tools" />
