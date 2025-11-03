@@ -59,7 +59,7 @@ SɅLUTɅTIONS_
 ### ⇴ softʬare && tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,wireguard,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,ssh,linux" alt="Tools" />
 </p>
 
 </div>
