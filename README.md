@@ -53,7 +53,7 @@ SɅLUTɅTIONS_
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,postgres,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,postgres" alt="Tools" />
 </p>
 
 </div>
