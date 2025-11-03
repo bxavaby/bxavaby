@@ -12,8 +12,6 @@ SɅLUTɅTIONS_
 
 <div align="center">
 
-## 「 about me 」
-
 <br>
 
 </div>
