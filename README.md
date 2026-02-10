@@ -27,7 +27,7 @@
 
 <br>
 
-### ⇴ connect with me
+### ⇴ let's chat
 
 <p align="center">
 <a href="mailto:bxavaby@protonmail.ch" target="_blank"><img src="https://img.shields.io/badge/Proton-1B1B1D?style=for-the-badge&logo=protonmail&logoColor=4D2ED0" alt="Proton" /></a>
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-## 「 favorit(<)3 tools 」
+## 「 favorit(<)3 things 」
 
 <br>
 
